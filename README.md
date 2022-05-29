@@ -19,6 +19,6 @@
   <a href = "mailto:karinaarnoni@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/karina-arnoni-12035618b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-https://github.com/Kah123rina/Kah123rina/blob/main/.github/fluxos%20de%20trabalho/main.yml
+  ![Snake animation](https://github.com/Kah123rina/Kah123rina/blob/output/github-contribution-grid-snake.svg)
 
  </div>
