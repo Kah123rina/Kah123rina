@@ -1,7 +1,7 @@
 ### Olá Pessoas ❤
-### Eu sou a Kaaah 😊
-- 🔭 Procuro Estágio na área de desenvolvimento, Análise de testes QA
-- 🌱 Estudando Análise e Desenvolvimento
+### Eu sou a Kah 😊
+- 🔭 Procuro estágio na área de análise de testes qa
+-  🌱 Estudando Análise e Desenvolvimento de Sistemas
 - 📫 Contate-me no e-mail: karinaarnoni@hotmail.com
 - 😄 Ela/Dela
 <div align="center">
