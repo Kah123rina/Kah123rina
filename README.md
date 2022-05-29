@@ -1,6 +1,6 @@
 ### Olá Pessoas ❤
-### Eu sou a Kah 😊
-- 🔭 Procuro estágio na área de análise de testes qa
+### Eu sou a Kah 😊❤
+- 🔭 Procure estágio na área de análise de testes qa
 -  🌱 Estudando Análise e Desenvolvimento de Sistemas
 - 📫 Contate-me no e-mail: karinaarnoni@hotmail.com
 - 😄 Ela/Dela
@@ -18,7 +18,6 @@
   <a href="https://www.instagram.com/heey_kaah123/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:karinaarnoni@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/karina-arnoni-12035618b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
   
   
  </div>
